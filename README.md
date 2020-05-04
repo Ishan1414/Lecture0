@@ -10,4 +10,4 @@ Bootstrap grid, SCSS variable and media responsive query has been included in th
 
 There are 4 pages and at least one of them contains image, table, an ordered list and an unordered list.
 
-Project0/homepage.html
+homepage.html
